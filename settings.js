@@ -29,8 +29,8 @@ global.ownernomer = '+94760069363' //Owner Number <<<
 global.ownername = '😎𝙈𝙍 𝙈𝘼𝙉𝙐𝙇 𝙊𝙁𝙁𝙄𝘾𝙄𝘼𝙇' //Owner Name
 global.botname = ' ☬RED༒DRAGON࿐' //Bot Name
 
-global.button = '☰ GITHUB ☰' //Costomize A Button Name In Alive Message
-global.btnurl = 'https://github.com/' //Change Your Button's URL
+global.button = '☰ ♥️🪄ᴍʏ ʙᴏᴛ ɢʀᴏᴜᴘ🪄♥️ ☰' //Costomize A Button Name In Alive Message
+global.btnurl = 'https://chat.whatsapp.com/Ih7sU8uFtQ965rJwy5nfrK' //Change Your Button's URL
 
 global.region = 'India, South India, Kerala' //Country Region
 
@@ -39,11 +39,11 @@ global.author = '𝙈𝙍 𝙈𝘼𝙉𝙐𝙇 𝙊𝙁𝙁𝙄𝘾𝙄𝘼𝙇�
 global.prefa = ['','!','.','😂','❤️','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor
-global.dragonemoji = '🧩' // Menu emoji
-global.footer = '©_Kumuthu.' //In list menu
+global.dragonemoji = '♠️' // Menu emoji
+global.footer = '©_Manuwa.' //In list menu
 global.chatbotpre = 'true'  // Chat bot true/false
 
-global.ig = 'https://github.com/prabhasha2006' //Github Account!
+global.ig = 'https://github.com/Manulofficial' //Github Account!
 
 global.mess = { // COSTOMIZE WITH YOUR LANGUAGE
 	
